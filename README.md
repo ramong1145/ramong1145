@@ -1,9 +1,8 @@
 ### Hi there, I'm Ramon 👋
 ## I'm a Software Developer currently located in Nicaragua!
 
-- Website Development 🌎
+- Web Appplications Development 🌎
 - Project Management 🚧
-- Staff Recruitment 👨‍💼
 - Website Scraping Automation 🐭
 - Desktop Development 💻
 - Quality Assurance Testing 🧪
@@ -35,7 +34,6 @@
 
 <!-- Social media icons section -->
 <p align="center">
-  <a href="rgallo.gatsby.io"><img src="https://image.flaticon.com/icons/png/512/332/332140.png" width="35px"></a>
   <a href="https://twitter.com/ramong1145"><img src="https://image.flaticon.com/icons/png/512/733/733579.png" width="35px"></a>
   <a href="https://www.linkedin.com/in/ramon-gallo-13a348130/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="35px"></a>
 </p>
